@@ -8,14 +8,6 @@
 
 ---
 
-## 👤 About Me
-
-- 🔭 Currently developing **[EduFlow](https://github.com/prakhyat798/eduflow)** (AI-powered productivity) & **[CipherVault](https://github.com/prakhyat798/CipherVault)** (Zero-Knowledge Vault).
-- 🎓 Certified in **Android 14 & Kotlin Masterclass** (Udemy) and **Learn SQL** (Boot.dev).
-- 🌱 Continuously expanding skills in **Mobile App Architecture**, **Database Performance**, and **Cybersecurity**.
-- 💬 Ask me about **Kotlin, Flutter, Java, SQL, and Web Crypto APIs**.
-
----
 
 ## 📜 Verified Certifications
 

@@ -85,16 +85,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhyat798&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhyat798&show_icons=true&theme=dark&hide_border=true" alt="Prakhyat's GitHub Stats" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhyat798&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
 
 <div align="center">
   <a href="https://github.com/prakhyat798">

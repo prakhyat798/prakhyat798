@@ -49,6 +49,28 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🐧 Learn Linux Certificate</h3>
+      <p><b>Boot.dev Verified Credential</b></p>
+      <a href="https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f" target="_blank">
+        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f.jpeg?v=1787072478" width="85%" alt="Boot.dev Learn Linux Certificate" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <a href="https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f" target="_blank">
+        <img src="https://img.shields.io/badge/Verify%20Credential-Boot.dev-E10098?style=for-the-badge&logo=linux&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p align="left">
+        <b>Key Skills Mastered:</b><br/>
+        • Linux Command Line & Shell Scripting Basics<br/>
+        • File System, Permissions & Process Management<br/>
+        • I/O Redirection, Piping & Package Management
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+    </td>
+  </tr>
 </table>
 
 ---

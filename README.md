@@ -49,6 +49,7 @@
       </p>
     </td>
   </tr>
+  <!-- NEW ROW FOR LINUX CERTIFICATE -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🐧 Learn Linux Certificate</h3>
@@ -68,6 +69,7 @@
         • I/O Redirection, Piping & Package Management
       </p>
     </td>
+    <!-- EMPTY CELL FOR FUTURE CERTIFICATES TO KEEP TABLE BALANCED -->
     <td width="50%" valign="top" align="center">
     </td>
   </tr>

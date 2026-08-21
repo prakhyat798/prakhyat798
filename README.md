@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Prakhyat+Maurya!+%F0%9F%90%A7;Android+%26+Mobile+Developer+%F0%9F%93%B1;Software+Engineer+%26+Open+Source+Builder+%F0%9F%92%A1" alt="Typing SVG" />
   
-  <p align="center">
-    <b>Passionate Software Developer | Android, Kotlin, Flutter & SQL Enthusiast</b>
-  </p>
+ 
 </div>
 
 ---

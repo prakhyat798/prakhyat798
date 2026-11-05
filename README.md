@@ -1,115 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Prakhyat+Maurya!+%F0%9F%90%A7;Android+%26+Mobile+Developer+%F0%9F%93%B1;Software+Engineer+%26+Open+Source+Builder+%F0%9F%92%A1" alt="Typing SVG" />
-  
- 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img src="./assets/profile-hero-light.svg" alt="Hi, I'm Prakhyat. Building useful things, thoughtfully." width="100%">
+</picture>
+
+<br>
+
+**Software developer · BCA student · Curious about how things work**
+
+I enjoy building polished apps, solving practical problems, and connecting design with engineering.
+
+[Selected work](#selected-work) &nbsp;·&nbsp; [Toolbox](#toolbox) &nbsp;·&nbsp; [Credentials](#credentials)
+
 </div>
 
----
+<br>
 
+### Selected work
 
-## 📜 Verified Certifications
+| Project | What I'm building |
+| :--- | :--- |
+| **[ExamOpt](https://github.com/prakhyat798/ExamOpt)** | Constraint-based exam timetable optimization using graph coloring, backtracking, FastAPI, and React. |
+| **[FoodBridge](https://github.com/prakhyat798/food-bridge-)** | A Flutter + web platform connecting food donors, NGOs, and riders through Supabase. |
+| **[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** | Local NVIDIA-powered image and video super-resolution, built around Real-ESRGAN. |
+| **[System Monitor](https://github.com/prakhyat798/System-Monitor)** | A lightweight Windows hardware dashboard with live sensor readings and an overlay. |
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>📱 Android 14 & Kotlin Development Masterclass</h3>
-      <p><b>Udemy Verified Credential</b> (66.5 Total Hours)</p>
-      <a href="https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1" target="_blank">
-        <img src="https://img.shields.io/badge/Udemy-Android%2014%20%26%20Kotlin-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certificate Badge" />
-      </a>
-      <br/><br/>
-      <a href="https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1" target="_blank">
-        <img src="https://img.shields.io/badge/Verify%20Credential-UC--31a4f0c4--9719--40de--9166--fd0e38aaa7a1-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p align="left">
-        <b>Key Skills Mastered:</b><br/>
-        • Android 14 SDK & Modern Kotlin Programming<br/>
-        • Mobile App Architecture & Jetpack Libraries<br/>
-        • RESTful API Integration & Dynamic UI Components<br/>
-        • Instructor: Denis Panjuta (Tutorials.eu)
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🏆 Learn SQL Certificate</h3>
-      <p><b>Boot.dev Verified Credential</b></p>
-      <a href="https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02" target="_blank">
-        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02.jpeg?v=1786645527" width="85%" alt="Boot.dev Learn SQL Certificate" style="border-radius: 8px;" />
-      </a>
-      <br/><br/>
-      <a href="https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02" target="_blank">
-        <img src="https://img.shields.io/badge/Verify%20Credential-Boot.dev-E10098?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p align="left">
-        <b>Key Skills Mastered:</b><br/>
-        • Relational Database Design & Data Normalization<br/>
-        • CRUD Operations, Complex Queries & Joins<br/>
-        • Subqueries, Aggregations & Performance Indexing
-      </p>
-    </td>
-  </tr>
-  <!-- NEW ROW FOR LINUX CERTIFICATE -->
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🐧 Learn Linux Certificate</h3>
-      <p><b>Boot.dev Verified Credential</b></p>
-      <a href="https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f" target="_blank">
-        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f.jpeg?v=1787072478" width="85%" alt="Boot.dev Learn Linux Certificate" style="border-radius: 8px;" />
-      </a>
-      <br/><br/>
-      <a href="https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f" target="_blank">
-        <img src="https://img.shields.io/badge/Verify%20Credential-Boot.dev-E10098?style=for-the-badge&logo=linux&logoColor=white" />
-      </a>
-      <br/><br/>
-      <p align="left">
-        <b>Key Skills Mastered:</b><br/>
-        • Linux Command Line & Shell Scripting Basics<br/>
-        • File System, Permissions & Process Management<br/>
-        • I/O Redirection, Piping & Package Management
-      </p>
-    </td>
-    <!-- EMPTY CELL FOR FUTURE CERTIFICATES TO KEEP TABLE BALANCED -->
-    <td width="50%" valign="top" align="center">
-    </td>
-  </tr>
-</table>
+<sub>Also exploring: [EduFlow](https://github.com/prakhyat798/eduflow) — an AI-assisted learning and productivity app in progress.</sub>
 
----
+### Toolbox
 
-## 🛠️ Tech Stack & Tools
+**Languages** &nbsp; Python · Dart · Java · JavaScript / TypeScript · SQL
 
-### 💻 Languages & Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Things I build with** &nbsp; Flutter · React · FastAPI · Supabase · Git · Linux
 
-### 🗄️ Databases & Developer Tools
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**I care about** &nbsp; Thoughtful interfaces · Useful automation · Performance · Clear architecture
 
-## 🚀 Featured Projects
+### Credentials
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎓 **[EduFlow](https://github.com/prakhyat798/eduflow)** | AI-powered skill learning & productivity app | `Flutter` `Gemini AI` |
-| 🔐 **[CipherVault](https://github.com/prakhyat798/CipherVault)** | Zero-knowledge browser password vault with AES-256 & 2FA TOTP | `JavaScript` `Web Crypto API` |
-| 💻 **[System Monitor](https://github.com/prakhyat798/System-Monitor)** | Real-time system resource & process tracking tool | `Python` |
+<details>
+<summary>Verified learning certificates</summary>
 
----
+<br>
 
+- **[Android 14 & Kotlin Development Masterclass](https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1)** — Udemy
+- **[Learn SQL](https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02)** — Boot.dev
+- **[Learn Linux](https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f)** — Boot.dev
+
+</details>
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/prakhyat798">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <sub>Less noise. More useful software.</sub>
+  <br><br>
+  <a href="https://github.com/prakhyat798?tab=repositories">Explore all repositories</a>
 </div>

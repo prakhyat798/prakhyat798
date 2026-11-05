@@ -24,7 +24,7 @@
       <img src="./assets/about-code-panel.svg" alt="Developer profile in code: building practical apps, systems and AI tools" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/about-window-art.svg" alt="Developer working at a desk by a city window at dusk" width="100%" />
+      <img src="./assets/about-window-art.webp" alt="Developer working at a desk by a city window at dusk" width="100%" />
     </td>
   </tr>
 </table>

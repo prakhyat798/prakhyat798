@@ -1,105 +1,141 @@
 <div align="center">
 
-<img src="./assets/hero-nexus.svg" alt="Hi, I'm Prakhyat — building useful software, thoughtfully." width="100%"/>
+<img src="./assets/reference-style-banner.svg" alt="Prakhyat — Software Developer, Builder" width="100%" />
 
 <br/>
 
-**SOFTWARE DEVELOPER** &nbsp; · &nbsp; **BUILDER** &nbsp; · &nbsp; **PROBLEM SOLVER**
+### Hi 👋, I'm Prakhyat
+
+**Software Developer · Builder · Problem Solver**
+
+<sub>Building practical software with clean design, thoughtful architecture, and a little curiosity.</sub>
+
+</div>
 
 <br/>
 
-I turn ideas into useful applications, practical tools, and thoughtful interfaces.  
-From full-stack products to GPU utilities, I enjoy making software that works well and feels good to use.
+---
 
-<br/>
+### 🎯 About Me
 
-<a href="https://github.com/prakhyat798?tab=repositories"><img alt="All projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-10253C?style=for-the-badge&logo=github&logoColor=9ED7FF"/></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/about-code-panel.svg" alt="Developer profile in code: building practical apps, systems and AI tools" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/about-window-art.svg" alt="Developer working at a desk by a city window at dusk" width="100%" />
+    </td>
+  </tr>
+</table>
+
+I'm **Prakhyat**, a software developer who enjoys turning ideas into polished applications and useful tools. I work across **Flutter, full-stack web apps, automation, and systems utilities**.
+
+I care about writing understandable code, building reliable features, and making complicated things feel easy.
+
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/prakhyat798"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/prakhyat798"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-10253C?style=for-the-badge&logo=github&logoColor=9ED7FF"/></a>
+<a href="https://github.com/prakhyat798?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/MY_PROJECTS-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/prakhyat798/ExamOpt"><img alt="Featured Project" src="https://img.shields.io/badge/FEATURED_WORK-485A99?style=for-the-badge&amp;logo=codefactor&amp;logoColor=white" /></a>
 
 </div>
 
 ---
 
-### 01 / ABOUT ME
-
-I'm a developer interested in the intersection of **software engineering, product design, and automation**.
-
-I work on projects ranging from exam timetable optimization and mobile applications to NVIDIA-powered image processing and Windows system utilities. I care about clean architecture, practical performance, and making complex things feel simple.
-
-> **Build something useful. Make it intuitive. Keep improving it.**
-
----
-
-### 02 / TECH STACK
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,js,ts,flutter,react,fastapi,supabase,git,linux&theme=dark&perline=11" alt="Python, Dart, Java, JavaScript, TypeScript, Flutter, React, FastAPI, Supabase, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,flutter,react,fastapi,supabase,postgres,git,github,linux,vscode,androidstudio,html,css,nodejs&amp;theme=dark&amp;perline=9" alt="Programming languages, frameworks and developer tools" />
 
 <br/><br/>
 
-<sub>Python · Dart · Java · JavaScript / TypeScript · Flutter · React · FastAPI · Supabase · Git · Linux</sub>
-
-</div>
-
----
-
-### 03 / SELECTED WORK
-
-<div align="center">
-
-<a href="https://github.com/prakhyat798/ExamOpt"><img src="./assets/project-examopt.svg" width="92%" alt="ExamOpt — constraint-based exam scheduling with FastAPI and React"/></a>
-
-<a href="https://github.com/prakhyat798/food-bridge-"><img src="./assets/project-foodbridge.svg" width="92%" alt="FoodBridge — Flutter and Supabase surplus food redistribution platform"/></a>
-
-<a href="https://github.com/prakhyat798/Image-Enhancer"><img src="./assets/project-enhancer.svg" width="92%" alt="Image Enhancer — NVIDIA CUDA super-resolution tool"/></a>
-
-<a href="https://github.com/prakhyat798/System-Monitor"><img src="./assets/project-monitor.svg" width="92%" alt="System Monitor — Windows hardware monitoring application"/></a>
-
-<a href="https://github.com/prakhyat798/eduflow"><img src="./assets/project-eduflow.svg" width="92%" alt="EduFlow — AI-powered learning app in progress"/></a>
-
-</div>
-
----
-
-### 04 / GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakhyat798&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=C9D7E9&icon_color=60A5FA" alt="Live GitHub activity statistics" width="58%"/>
+<img src="https://img.shields.io/badge/PYTHON-2B4F72?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JAVA-7B4A37?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/DART-156F9F?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/FLUTTER-27659C?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/REACT-284B63?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/FASTAPI-187D72?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SUPABASE-246A4A?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhyat798&bg_color=0B1220&color=B9C9E0&line=58B9FF&point=7DD3FC&area_color=1B4C76&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
-
-<sub>Live activity graphics are provided by community-maintained GitHub services. You can also view <a href="https://github.com/prakhyat798">my native GitHub contributions</a>.</sub>
+<img src="https://img.shields.io/badge/GIT-6F4735?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/LINUX-303846?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/POSTGRESQL-315781?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/ANDROID_STUDIO-285547?style=flat-square&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" />
+<img src="https://img.shields.io/badge/VS_CODE-27639A?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/NVIDIA_CUDA-476521?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA CUDA" />
 
 </div>
 
 ---
 
-### 05 / LEARNING & CREDENTIALS
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakhyat798&amp;theme=github_dark" width="98%" alt="GitHub activity and contribution summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhyat798&amp;theme=github_dark" width="49%" alt="Most used languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhyat798&amp;theme=github_dark&amp;timeZone=Asia%2FKolkata" width="49%" alt="Commit activity by time of day" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakhyat798&amp;theme=github_dark" width="49%" alt="GitHub repository and contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakhyat798&amp;theme=github_dark" width="49%" alt="Most-used languages by commits" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.devomb.com/?username=prakhyat798&amp;theme=darkhub&amp;no-frame=true&amp;column=4&amp;row=2" width="98%" alt="GitHub achievement trophies" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[ExamOpt](https://github.com/prakhyat798/ExamOpt)** | Optimizes examination schedules using graph coloring and backtracking | Python, FastAPI, React |
+| **[FoodBridge](https://github.com/prakhyat798/food-bridge-)** | Connects surplus-food donors, NGOs and riders | Flutter, Supabase |
+| **[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** | NVIDIA-accelerated image and video super-resolution | Python, CUDA, Real-ESRGAN |
+| **[System Monitor](https://github.com/prakhyat798/System-Monitor)** | Live Windows hardware monitoring and overlay | Python, CustomTkinter |
+| **[EduFlow](https://github.com/prakhyat798/eduflow)** | AI-assisted learning and productivity, in progress | Flutter, Dart |
 
 <details>
-<summary><b>Verified courses and certificates</b></summary>
+<summary><b>🎓 Certifications</b></summary>
 
 <br/>
 
-- [Android 14 & Kotlin Development Masterclass](https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1) — Udemy
-- [Learn SQL](https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02) — Boot.dev
-- [Learn Linux](https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f) — Boot.dev
+- [Android 14 & Kotlin Development Masterclass](https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1)
+- [Learn SQL — Boot.dev](https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02)
+- [Learn Linux — Boot.dev](https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f)
 
 </details>
 
-<br/>
-
 <div align="center">
 
-<sub>DESIGN WITH INTENT. ENGINEER WITH PURPOSE.</sub>
+<br/>
 
-<br/><br/>
-
-<a href="https://github.com/prakhyat798?tab=repositories">Explore all repositories</a>
+<sub>Code · Design · Build · Improve</sub>
 
 </div>

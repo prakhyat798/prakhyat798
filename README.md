@@ -111,16 +111,6 @@ I care about writing understandable code, building reliable features, and making
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[ExamOpt](https://github.com/prakhyat798/ExamOpt)** | Optimizes examination schedules using graph coloring and backtracking | Python, FastAPI, React |
-| **[FoodBridge](https://github.com/prakhyat798/food-bridge-)** | Connects surplus-food donors, NGOs and riders | Flutter, Supabase |
-| **[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** | NVIDIA-accelerated image and video super-resolution | Python, CUDA, Real-ESRGAN |
-| **[System Monitor](https://github.com/prakhyat798/System-Monitor)** | Live Windows hardware monitoring and overlay | Python, CustomTkinter |
-| **[EduFlow](https://github.com/prakhyat798/eduflow)** | AI-assisted learning and productivity, in progress | Flutter, Dart |
-
 <details>
 <summary><b>🎓 Certifications</b></summary>
 

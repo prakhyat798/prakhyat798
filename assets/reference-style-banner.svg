@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-label="Prakhyat - Software developer and builder">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101521"/><stop offset=".58" stop-color="#18243c"/><stop offset="1" stop-color="#06090f"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#668fbf" stop-opacity=".9"/><stop offset="1" stop-color="#b8bbd6" stop-opacity=".12"/></linearGradient>
+<linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c4d0de" stop-opacity=".60"/><stop offset=".5" stop-color="#8ca9dc" stop-opacity=".24"/><stop offset="1" stop-color="#1c2e4b" stop-opacity=".1"/></linearGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d0e9ff"/></linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+<clipPath id="clip"><rect x="0" y="0" width="1080" height="300" rx="7"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1080" height="300" fill="url(#bg)"/>
+<ellipse cx="323" cy="-20" rx="300" ry="175" fill="#7ea1d1" opacity=".13" filter="url(#soft)"/>
+<g fill="none" stroke="#c1cde0" opacity=".13">
+<path d="M0 223 L270 0 M-40 132 L147 0 M82 300 L488 0 M272 300 L559 0 M-40 275 L390 0"/>
+<path d="M0 28 H1080 M0 119 H1080 M0 221 H1080"/>
+</g>
+<g fill="url(#stripe)" opacity=".88">
+<path d="M-50 88 L183 0 L325 0 L54 144 Z"/>
+<path d="M62 230 L439 0 L488 0 L164 278 Z"/>
+<path d="M171 324 L613 -30 L662 -30 L270 324 Z"/>
+</g>
+<!-- original anonymous figure silhouettes; no personal photograph -->
+<g opacity=".96">
+<ellipse cx="335" cy="50" rx="23" ry="24" fill="#111725"/>
+<path d="M306 74 Q335 64 358 80 L374 168 L345 179 L333 135 L325 178 L289 170 Z" fill="#111827"/>
+<path d="M300 169 L330 172 L320 291 L289 302 Z" fill="#0b1220"/>
+<path d="M338 174 L369 168 L384 300 L348 299 Z" fill="#0b1220"/>
+<path d="M291 83 L314 92 L285 189 L264 182 Z" fill="#20283a"/>
+<ellipse cx="456" cy="131" rx="20" ry="21" fill="#1b2536"/>
+<path d="M436 150 Q453 144 477 153 L497 233 L431 231 Z" fill="#111725"/>
+<path d="M437 226 L456 231 L430 299 L409 300 Z M463 231 L492 231 L515 299 L485 299 Z" fill="#121d2b"/>
+<path d="M481 158 L502 175 L524 221 L507 229 L480 192 Z" fill="#283247"/>
+</g>
+<g opacity=".25" fill="none" stroke="#9bc9ff">
+<circle cx="362" cy="145" r="99"/><path d="M230 141 H553 M365 12 V290"/>
+</g>
+<path d="M0 284 H1080" stroke="#9caacc" stroke-opacity=".22"/>
+<rect x="562" y="38" width="480" height="224" rx="3" fill="#070d17" opacity=".39"/>
+<path d="M591 72 H1010 M591 223 H1010" stroke="#a0a7c5" stroke-opacity=".31"/>
+<text x="595" y="100" fill="#99b5d4" font-size="13" font-family="Segoe UI,Arial,sans-serif" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER  /  BUILDER</text>
+<text x="591" y="159" fill="url(#title)" font-family="Segoe UI,Arial,sans-serif" font-size="60" letter-spacing="2" font-weight="900">PRAKHYAT</text>
+<text x="594" y="195" fill="#bdcbe1" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing=".4">Code. Design. Solve. Repeat.</text>
+<text x="594" y="242" fill="#7f9abb" font-family="Consolas,monospace" font-size="12" letter-spacing="2">[ BUILDING WHAT'S NEXT ]</text>
+<path d="M20 20 H55 M20 20 V55 M1060 20 H1025 M1060 20 V55 M20 280 H55 M20 280 V245 M1060 280 H1025 M1060 280 V245" stroke="#d2e0f4" stroke-opacity=".42" fill="none" stroke-width="1.5"/>
+</g>
+</svg>

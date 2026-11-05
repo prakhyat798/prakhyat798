@@ -1,54 +1,90 @@
 <div align="center">
 
-# Hi, I'm Prakhyat.
+<img src="./assets/hero-nexus.svg" alt="Hi, I'm Prakhyat — building useful software, thoughtfully." width="100%"/>
 
-**Building useful software, thoughtfully.**
+<br/>
 
-I develop apps, tools, and systems that make everyday work a little simpler.  
-Clean interfaces. Practical engineering. No unnecessary complexity.
+**SOFTWARE DEVELOPER** &nbsp; · &nbsp; **BUILDER** &nbsp; · &nbsp; **PROBLEM SOLVER**
 
-[Projects](#selected-projects) &nbsp;·&nbsp; [Toolkit](#toolkit) &nbsp;·&nbsp; [All repositories](https://github.com/prakhyat798?tab=repositories)
+<br/>
+
+I turn ideas into useful applications, practical tools, and thoughtful interfaces.  
+From full-stack products to GPU utilities, I enjoy making software that works well and feels good to use.
+
+<br/>
+
+<a href="https://github.com/prakhyat798?tab=repositories"><img alt="All projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-10253C?style=for-the-badge&logo=github&logoColor=9ED7FF"/></a>
+&nbsp;
+<a href="https://github.com/prakhyat798"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-10253C?style=for-the-badge&logo=github&logoColor=9ED7FF"/></a>
 
 </div>
 
 ---
 
-### Selected projects
+### 01 / ABOUT ME
 
-**[ExamOpt](https://github.com/prakhyat798/ExamOpt)** — Intelligent exam scheduling  
-Constraint optimization with graph coloring and backtracking, a FastAPI backend, and a React dashboard.  
-`Python` `FastAPI` `React`
+I'm a developer interested in the intersection of **software engineering, product design, and automation**.
 
-**[FoodBridge](https://github.com/prakhyat798/food-bridge-)** — Making food redistribution easier  
-A connected mobile and web experience for donors, NGOs, and delivery riders.  
-`Flutter` `Supabase` `Web`
+I work on projects ranging from exam timetable optimization and mobile applications to NVIDIA-powered image processing and Windows system utilities. I care about clean architecture, practical performance, and making complex things feel simple.
 
-**[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** — Local AI-powered upscaling  
-An NVIDIA GPU application for enhancing images and videos using Real-ESRGAN.  
-`Python` `CUDA` `PySide6`
-
-**[System Monitor](https://github.com/prakhyat798/System-Monitor)** — Hardware insights at a glance  
-A Windows monitoring dashboard with live sensor readings and a compact desktop overlay.  
-`Python` `CustomTkinter`
-
-<sub>Currently exploring: <a href="https://github.com/prakhyat798/eduflow">EduFlow</a> — a more connected, AI-assisted learning experience.</sub>
+> **Build something useful. Make it intuitive. Keep improving it.**
 
 ---
 
-### Toolkit
+### 02 / TECH STACK
 
-**Languages** &nbsp; `Python` `Dart` `Java` `JavaScript` `TypeScript` `SQL`
+<div align="center">
 
-**Frameworks & tools** &nbsp; `Flutter` `React` `FastAPI` `Supabase` `Git` `Linux`
+<img src="https://skillicons.dev/icons?i=python,dart,java,js,ts,flutter,react,fastapi,supabase,git,linux&theme=dark&perline=11" alt="Python, Dart, Java, JavaScript, TypeScript, Flutter, React, FastAPI, Supabase, Git, Linux" />
 
-I like building things that are **simple to use, reliable, and thoughtfully designed**.
+<br/><br/>
+
+<sub>Python · Dart · Java · JavaScript / TypeScript · Flutter · React · FastAPI · Supabase · Git · Linux</sub>
+
+</div>
 
 ---
+
+### 03 / SELECTED WORK
+
+<div align="center">
+
+<a href="https://github.com/prakhyat798/ExamOpt"><img src="./assets/project-examopt.svg" width="92%" alt="ExamOpt — constraint-based exam scheduling with FastAPI and React"/></a>
+
+<a href="https://github.com/prakhyat798/food-bridge-"><img src="./assets/project-foodbridge.svg" width="92%" alt="FoodBridge — Flutter and Supabase surplus food redistribution platform"/></a>
+
+<a href="https://github.com/prakhyat798/Image-Enhancer"><img src="./assets/project-enhancer.svg" width="92%" alt="Image Enhancer — NVIDIA CUDA super-resolution tool"/></a>
+
+<a href="https://github.com/prakhyat798/System-Monitor"><img src="./assets/project-monitor.svg" width="92%" alt="System Monitor — Windows hardware monitoring application"/></a>
+
+<a href="https://github.com/prakhyat798/eduflow"><img src="./assets/project-eduflow.svg" width="92%" alt="EduFlow — AI-powered learning app in progress"/></a>
+
+</div>
+
+---
+
+### 04 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakhyat798&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=C9D7E9&icon_color=60A5FA" alt="Live GitHub activity statistics" width="58%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhyat798&bg_color=0B1220&color=B9C9E0&line=58B9FF&point=7DD3FC&area_color=1B4C76&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+
+<sub>Live activity graphics are provided by community-maintained GitHub services. You can also view <a href="https://github.com/prakhyat798">my native GitHub contributions</a>.</sub>
+
+</div>
+
+---
+
+### 05 / LEARNING & CREDENTIALS
 
 <details>
-<summary><b>Courses & certifications</b></summary>
+<summary><b>Verified courses and certificates</b></summary>
 
-<br>
+<br/>
 
 - [Android 14 & Kotlin Development Masterclass](https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1) — Udemy
 - [Learn SQL](https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02) — Boot.dev
@@ -56,8 +92,14 @@ I like building things that are **simple to use, reliable, and thoughtfully desi
 
 </details>
 
+<br/>
+
 <div align="center">
 
-<sub>Make it useful. Keep it simple.</sub>
+<sub>DESIGN WITH INTENT. ENGINEER WITH PURPOSE.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/prakhyat798?tab=repositories">Explore all repositories</a>
 
 </div>

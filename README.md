@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/reference-style-banner.svg" alt="Prakhyat — Software Developer, Builder" width="100%" />
+<img src="./assets/reference-style-banner.webp" alt="Prakhyat — Software Developer, Builder" width="100%" />
 
 <br/>
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="545" viewBox="0 0 522 545" role="img" aria-label="About Prakhyat, in code">
+<rect width="522" height="545" rx="9" fill="#10131e" stroke="#30364b" stroke-width="2"/>
+<path d="M0 42 H522" stroke="#353d52"/><circle cx="24" cy="21" r="5" fill="#ec786f"/><circle cx="43" cy="21" r="5" fill="#e7c268"/><circle cx="62" cy="21" r="5" fill="#70be91"/>
+<text x="86" y="26" font-size="13" font-family="Consolas,monospace" fill="#93a4c0">prakhyat.ts</text>
+<g font-size="15" font-family="Consolas,monospace">
+<text x="26" y="82" fill="#ae8ff3">const <tspan fill="#d4c5ee">prakhyat</tspan> <tspan fill="#abbacd">=</tspan> <tspan fill="#a6badd">{</tspan></text>
+<text x="48" y="115"><tspan fill="#88b6ff">role:</tspan><tspan fill="#c3d19b"> "Software Developer",</tspan></text>
+<text x="48" y="147"><tspan fill="#88b6ff">location:</tspan><tspan fill="#c3d19b"> "India",</tspan></text>
+<text x="48" y="179"><tspan fill="#88b6ff">focus:</tspan><tspan fill="#a7b8d1"> [</tspan></text>
+<text x="74" y="211" fill="#c3d19b">"Practical Apps",</text>
+<text x="74" y="243" fill="#c3d19b">"System Tools",</text>
+<text x="74" y="275" fill="#c3d19b">"AI &amp; Automation"</text>
+<text x="48" y="307" fill="#a7b8d1">],</text>
+<text x="48" y="339"><tspan fill="#88b6ff">tools:</tspan><tspan fill="#a7b8d1"> [</tspan></text>
+<text x="74" y="371" fill="#c3d19b">"Flutter", "React",</text>
+<text x="74" y="403" fill="#c3d19b">"Python", "FastAPI"</text>
+<text x="48" y="435" fill="#a7b8d1">],</text>
+<text x="48" y="467"><tspan fill="#88b6ff">currently:</tspan><tspan fill="#c3d19b"> "Building..."</tspan></text>
+<text x="26" y="499" fill="#a6badd">};</text>
+</g>
+<path d="M482 24 H502" stroke="#596b87" stroke-width="2"/><rect x="474" y="13" width="9" height="9" rx="1" fill="none" stroke="#596b87"/>
+</svg>

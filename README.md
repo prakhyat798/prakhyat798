@@ -101,16 +101,6 @@ I care about writing understandable code, building reliable features, and making
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.devomb.com/?username=prakhyat798&amp;theme=darkhub&amp;no-frame=true&amp;column=4&amp;row=2" width="98%" alt="GitHub achievement trophies" />
-
-</div>
-
----
-
 <details>
 <summary><b>🎓 Certifications</b></summary>
 

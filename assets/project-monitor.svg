@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="194" viewBox="0 0 570 194" role="img" aria-label="SYSTEM MONITOR - Hardware, at a glance">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2d"/><stop offset="1" stop-color="#0a101c"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#f2ba78" stop-opacity=".18"/><stop offset="1" stop-color="#f2ba78" stop-opacity="0"/></radialGradient>
+ </defs>
+ <rect width="570" height="194" rx="18" fill="url(#bg)" stroke="#31465f"/>
+ <rect x="1" y="1" width="568" height="192" rx="17" fill="none" stroke="#f2ba78" stroke-opacity=".36"/>
+ <ellipse cx="526" cy="29" rx="145" ry="130" fill="url(#light)"/>
+ <rect x="26" y="29" width="4" height="30" rx="2" fill="#f2ba78"/>
+ <text x="45" y="46" fill="#f2ba78" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">DESKTOP  /  SYSTEMS</text>
+ <text x="28" y="91" fill="#f4f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="750">SYSTEM MONITOR</text>
+ <text x="28" y="116" fill="#b4c6dd" font-family="Segoe UI,Arial,sans-serif" font-size="15">Hardware, at a glance</text>
+ <text x="28" y="143" fill="#a1b2c9" font-family="Segoe UI,Arial,sans-serif" font-size="12.3">Live Windows sensor readings and an always-on-top overlay.</text>
+ <path d="M28 158 H540" stroke="#49617c" stroke-opacity=".55"/>
+ <text x="28" y="177" fill="#f2ba78" font-family="Consolas,monospace" letter-spacing=".8" font-size="11">PYTHON   ·   CUSTOMTKINTER</text>
+ <g transform="translate(512 51)" stroke="#f2ba78" fill="none" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"><path d="M0 16 L25 -9 M11 -9 H25 V5"/></g>
+ </svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="376" viewBox="0 0 1200 376" role="img" aria-labelledby="title desc">
+<title id="title">Prakhyat Maurya — Software developer</title>
+<desc id="desc">Minimal, Material-inspired introduction banner with a four-color motif and a small abstract interface.</desc>
+<rect width="1200" height="376" rx="32" fill="#0D1117"/>
+<rect x="22" y="22" width="1156" height="332" rx="28" fill="#171C25" stroke="#2D3643" stroke-width="1.5"/>
+<circle cx="90" cy="82" r="7" fill="#4285F4"/>
+<circle cx="113" cy="82" r="7" fill="#EA4335"/>
+<circle cx="136" cy="82" r="7" fill="#FBBC05"/>
+<circle cx="159" cy="82" r="7" fill="#34A853"/>
+<text x="76" y="143" fill="#ABB5C4" font-size="17" font-weight="600" letter-spacing="2.7" font-family="Arial, Helvetica, sans-serif">HELLO, WORLD.</text>
+<text x="74" y="218" fill="#EDF1F9" font-size="58" font-weight="700" letter-spacing="-2.4" font-family="Arial, Helvetica, sans-serif">I'm Prakhyat.</text>
+<text x="76" y="265" fill="#ABB5C4" font-size="25" font-weight="400" font-family="Arial, Helvetica, sans-serif">Building useful things, thoughtfully.</text>
+<rect x="76" y="296" width="121" height="30" rx="15" fill="#222B38"/>
+<text x="136.5" y="316" text-anchor="middle" fill="#ABB5C4" font-size="14" font-weight="600" font-family="Arial, Helvetica, sans-serif">SOFTWARE</text>
+<rect x="205" y="296" width="104" height="30" rx="15" fill="#222B38"/>
+<text x="257" y="316" text-anchor="middle" fill="#ABB5C4" font-size="14" font-weight="600" font-family="Arial, Helvetica, sans-serif">DESIGN</text>
+<rect x="317" y="296" width="106" height="30" rx="15" fill="#222B38"/>
+<text x="370" y="316" text-anchor="middle" fill="#ABB5C4" font-size="14" font-weight="600" font-family="Arial, Helvetica, sans-serif">SYSTEMS</text>
+<rect x="807" y="63" width="309" height="260" rx="25" fill="#202B39" stroke="#2D3643" stroke-width="1.5"/>
+<rect x="835" y="91" width="253" height="66" rx="15" fill="#263242" stroke="#2D3643"/>
+<rect x="854" y="110" width="29" height="29" rx="10" fill="#4285F4" fill-opacity=".17"/>
+<circle cx="868.5" cy="124.5" r="7" fill="#4285F4"/>
+<text x="898" y="117" fill="#ABB5C4" font-size="12" font-family="Arial, Helvetica, sans-serif">CURRENT MODE</text>
+<text x="898" y="138" fill="#EDF1F9" font-size="18" font-weight="600" font-family="Arial, Helvetica, sans-serif">Create &amp; iterate</text>
+<rect x="835" y="173" width="119" height="105" rx="17" fill="#263242" stroke="#2D3643"/>
+<rect x="854" y="193" width="64" height="9" rx="4.5" fill="#34A853" fill-opacity=".85"/>
+<rect x="854" y="213" width="79" height="7" rx="3.5" fill="#2D3643"/>
+<rect x="854" y="227" width="58" height="7" rx="3.5" fill="#2D3643"/>
+<circle cx="866" cy="254" r="7" fill="#34A853" fill-opacity=".8"/>
+<circle cx="886" cy="254" r="7" fill="#4285F4" fill-opacity=".8"/>
+<circle cx="906" cy="254" r="7" fill="#FBBC05" fill-opacity=".9"/>
+<rect x="970" y="173" width="118" height="105" rx="17" fill="#263242" stroke="#2D3643"/>
+<path d="M990 248 L1007 225 L1021 238 L1039 204 L1062 218" fill="none" stroke="#4285F4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1062" cy="218" r="6" fill="#EA4335"/>
+<rect x="990" y="189" width="62" height="7" rx="3.5" fill="#2D3643"/>
+<text x="960" y="306" fill="#ABB5C4" font-size="13" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">IDEA  /  BUILD  /  SHIP</text>
+</svg>

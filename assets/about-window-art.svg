@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="545" viewBox="0 0 522 545" role="img" aria-label="An atmospheric illustration of a developer working by a city window">
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#253d60"/><stop offset=".51" stop-color="#59677f"/><stop offset="1" stop-color="#bf8e75"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#eeb28d" stop-opacity=".58"/><stop offset="1" stop-color="#eeb28d" stop-opacity="0"/></linearGradient>
+<linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#28374b"/><stop offset="1" stop-color="#0c1221"/></linearGradient>
+<radialGradient id="lamp"><stop stop-color="#ffd5a7" stop-opacity=".72"/><stop offset="1" stop-color="#ffd5a7" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="522" height="545" rx="9" fill="#10141e"/>
+<rect x="23" y="19" width="476" height="380" fill="url(#night)"/>
+<rect x="35" y="34" width="450" height="345" fill="#364a68" opacity=".18"/>
+<!-- city towers -->
+<path d="M37 215 L65 215 V179 H99 V227 H132 V156 H159 V214 H190 V136 H231 V226 H266 V198 H305 V150 H333 V215 H357 V187 H387 V220 H418 V163 H460 V226 H488 V381 H37Z" fill="#293650" opacity=".88"/>
+<path d="M37 240 L89 210 L135 229 L163 197 L201 212 L241 193 L292 236 L320 214 L369 227 L416 203 L483 240 V380 H37Z" fill="#45506c" opacity=".55"/>
+<g fill="#f2b89a" opacity=".55">
+<rect x="75" y="211" width="4" height="9"/><rect x="82" y="211" width="4" height="9"/><rect x="145" y="183" width="4" height="9"/><rect x="204" y="168" width="4" height="9"/><rect x="214" y="168" width="4" height="9"/><rect x="314" y="178" width="4" height="9"/><rect x="430" y="190" width="4" height="9"/>
+</g>
+<path d="M260 21 V400 M25 205 H499" stroke="#182236" stroke-width="13"/>
+<path d="M25 205 H499 M260 21 V400" stroke="#72849b" stroke-width="3" opacity=".45"/>
+<g stroke="#c8d5e0" stroke-width="1" opacity=".18">
+<path d="M56 41 L27 373 M128 37 L109 382 M193 29 L174 382 M286 38 L267 382 M380 31 L361 379 M463 30 L439 381"/>
+</g>
+<!-- curtains, pane lights -->
+<path d="M22 19 H72 Q51 131 82 399 H24Z" fill="#162137" opacity=".8"/>
+<path d="M499 19 H451 Q469 137 441 399 H499Z" fill="#152134" opacity=".8"/>
+<rect x="23" y="399" width="476" height="146" fill="url(#floor)"/>
+<ellipse cx="356" cy="369" rx="157" ry="138" fill="url(#lamp)"/>
+<!-- chair -->
+<rect x="176" y="333" width="90" height="157" rx="32" fill="#2a3041" stroke="#101828" stroke-width="8"/>
+<!-- person at desk -->
+<path d="M187 317 Q206 286 244 303 L285 357 L288 429 L165 431 L160 373Z" fill="#45506a"/>
+<path d="M194 317 Q201 301 221 295 L241 298 L245 312 L229 325Z" fill="#c58a6e"/>
+<ellipse cx="223" cy="282" rx="32" ry="39" fill="#c58e6e"/>
+<path d="M192 276 Q178 231 219 234 Q247 233 254 259 Q248 266 249 281 Q236 274 225 256 Q210 275 192 276Z" fill="#181d29"/>
+<path d="M249 357 Q289 344 317 373 L340 400 L329 417 L288 397 L250 388" fill="#47536d"/>
+<!-- desk -->
+<path d="M270 401 H504 L522 428 H265Z" fill="#594a50"/>
+<rect x="295" y="427" width="14" height="118" fill="#253044"/>
+<rect x="480" y="427" width="12" height="118" fill="#263145"/>
+<!-- laptop -->
+<path d="M335 334 L460 330 L449 407 L332 406 Z" fill="#161d2a" stroke="#7996bd" stroke-width="3"/>
+<path d="M328 407 L458 407 L468 417 H314Z" fill="#6c7790"/>
+<path d="M359 367 L369 379 L358 390 M390 365 L379 393 M396 365 L386 379 L399 390" stroke="#8cc7f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<!-- lamp -->
+<path d="M466 385 L477 337 L455 296" stroke="#d1b6a2" stroke-width="5" fill="none"/>
+<path d="M439 287 L467 286 L477 307 L428 307Z" fill="#e8b391"/>
+<ellipse cx="453" cy="313" rx="72" ry="49" fill="url(#lamp)"/>
+<!-- plant -->
+<rect x="49" y="425" width="56" height="68" fill="#866b70"/>
+<path d="M76 440 Q26 389 52 331 Q88 345 76 440 M76 434 Q94 357 118 356 Q134 391 76 434 M76 427 Q35 379 15 401 Q19 439 76 427" fill="#304f51" stroke="#66837d" stroke-width="2"/>
+<rect x="0" y="510" width="522" height="35" fill="#10141e"/>
+</svg>

@@ -1,24 +1,54 @@
+<div align="center">
+
 # Prakhyat Maurya
 
-I build practical software — from desktop utilities and browser tools to applications that make everyday workflows simpler.
+**Software Development · Desktop Applications · Developer Tools**
 
-I value clean interfaces, understandable code, and solutions that work without unnecessary complexity.
+I build practical, local-first software with a focus on performance, usability, and clean interfaces.
 
-## Selected work
+[Projects](#selected-projects) · [Technologies](#technologies) · [Currently exploring](#currently-exploring) · [GitHub](https://github.com/prakhyat798?tab=repositories)
 
-- **[CipherVault](https://github.com/prakhyat798/CipherVault)** — Browser extension for encrypted password storage and two-factor authentication.
-- **[MSI Center Lite](https://github.com/prakhyat798/MSI-Center-Lite)** — A lightweight Windows interface for supported MSI laptop controls.
-- **[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** — Offline image upscaling with Real-ESRGAN and GPU acceleration.
-- **[EduFlow](https://github.com/prakhyat798/eduflow)** — A Flutter app for AI-assisted learning and study productivity.
-
-## Technologies
-
-Python · Java · C# · JavaScript · TypeScript · Dart · Flutter · React · Git · Linux
-
-## Learning
-
-[Android & Kotlin](https://ude.my/UC-31a4f0c4-9719-40de-9166-fd0e38aaa7a1) · [SQL](https://www.boot.dev/certificates/85210c9d-a37c-4fad-aad3-3a7ef1ef9f02) · [Linux](https://www.boot.dev/certificates/49d05533-a647-4a81-8f88-bb75c1c0261f)
+</div>
 
 ---
 
-[Browse all repositories](https://github.com/prakhyat798?tab=repositories)
+### About
+
+My work spans desktop utilities, privacy-focused browser tools, and learning applications. I'm interested in the details that make software feel fast, reliable, and intuitive.
+
+I enjoy working across the stack — from native desktop interfaces and system monitoring to web apps and Flutter.
+
+### Selected projects
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Dovy File Manager](https://github.com/prakhyat798/dovy-file-manager)** | Local-first file manager with multi-pane workflows, previews, and file tools. | Rust · GPUI |
+| **[CipherVault](https://github.com/prakhyat798/CipherVault)** | Browser-based encrypted password vault with integrated TOTP authentication. | JavaScript · Web Crypto |
+| **[EduFlow](https://github.com/prakhyat798/eduflow)** | AI-assisted study planning, micro-lessons, and productivity tools. | Flutter · Dart |
+| **[NEXUS System Monitor](https://github.com/prakhyat798/System-Monitor)** | Real-time Windows hardware monitoring with a compact desktop overlay. | Python · CustomTkinter |
+| **[Nova PDF](https://github.com/prakhyat798/nova-pdf)** | Client-side PDF and document utilities with local processing. | React · TypeScript |
+| **[Image Enhancer](https://github.com/prakhyat798/Image-Enhancer)** | Offline image upscaling and GPU-accelerated super-resolution. | Python · Real-ESRGAN |
+
+### Technologies
+
+**Languages** — Rust · Python · Java · JavaScript · TypeScript · Dart · C#
+
+**Frameworks & UI** — Flutter · React · GPUI · CustomTkinter
+
+**Tools & platforms** — Git · GitHub · Linux · Windows
+
+### Currently exploring
+
+- Building efficient desktop software and native-feeling interfaces
+- System utilities, automation, and developer workflows
+- Improving application architecture and performance
+
+---
+
+<div align="center">
+
+[**Explore all repositories**](https://github.com/prakhyat798?tab=repositories)
+
+<sub>Thoughtful software. Less noise, more utility.</sub>
+
+</div>
